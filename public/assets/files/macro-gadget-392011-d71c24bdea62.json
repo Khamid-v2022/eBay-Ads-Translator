@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "macro-gadget-392011",
+  "private_key_id": "d71c24bdea62c75f31c2248ebad293dbc1a26775",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDzAzIXdh3yB5+Q\nCBmMu5fyXQRBPJ8o5rLcPbjtPQTRTs5bSxVZSfBpwMZLA9uls3Pf2w2NjjPKIEP5\n7dZOcFc6jbEfr+WgYMo7wOx2fDfQ0w0ApoHbYrwK/pxHJcA9geHf0CfCd99uHBxH\nTzzj1W2CJ1dAYzyFcMHIqd2DPpAUP7JPMMvv2TcD58z0SPGcAPiLRDy2CwCa1OuY\nBPWrNRFKr5jAOdT2pZCcvUPkWhlRqEEgZDF67BTS8h7zuN/HqSCBNynt10/n5A8o\ng8gRhbGvlz6M+w286kF0hFWhfuIw1pqcOr/H118jDhyoR7g2opDWCZEa7OTIc5eT\ndMt4KWOnAgMBAAECggEAU20+biWDxEpvsf/F3bWtRWw/gLHyJhWFQ+0ApplzJPQ8\nDcVqD9w9Z+DhcnFhn7JKzogiT/2ItBR9objQAN+6YoSwUSOO3o87/mWOCGM+ujcq\nWJXRMOLlkZS1TAuewr7rL24DqFSE5QVLhAOk8MadsLgW0SkAZwM908jVHjCFQB2u\nsxm4GCjqxh9u5C7JydUpFl3ZxpXtg5NHBsEPmsokU2Mz1jlbYNCVert0yiTLQzPb\nSUBU6nB6b7mB7Pql7bnwuXzUCvkDGfIll7io6IOBBm9tG16SkLRXKHGkYlfl0hyv\ngOVBLYUK1P1Qa+IbjkOjXJ8JXQ7Nz50AoZVdTNB1YQKBgQD7gvob+ITKBXO9Z6T8\nLadjvxR7Q2yjfADvVwyfKzQycjh/2ILw0y8ilcpmYOk3EE1uHwr/8UJlf8QseWQb\nlKPiBIzRIeHX6sIq6PatO5HEVjAApHxof+Rq3aRs4VY3Ksqy0otgwzPFJJAJi2QB\nS2eVxFx+iejSI6N70Wj1UoKX1wKBgQD3WWP+VGpXUWA9VweWWNh2HaIMhEULCCF5\n27mgyl/vSuP/DH+KU+lqVkR24sjJraERdZ22LU/sSZaV+m7ETw7db806BU4GaUe3\n39thWFINtbLjzk44YRH9513s9fPB1kNpvnUaJd9eHwhffjacmL88Gree0GnuxlL3\noBIbdifYsQKBgEIavbPmULhsUGxCtnlVYn5z9WUkZoRdjj1ZysZ264QqwzDO7jNv\nvh6/8e+QnxtK3J8J57E3bvUQbLYnvakGG0DHY1+AIUTHvfrbOiJz2q8Y3Ar/MHei\nzZ1M3e+EFk3voFD5x4pKI+w33Oe1TDaO5A3YC1ty0c+RcGGVu5lm804HAoGBALcc\nySbuTW9pAetHM4m9Kjp/A4lqnkZldYrl/E0ppM3czl7xXLYGGuWrCbJNf8G2NWhc\nfy3v65wMelt7c2cG9AVAkFjktneOlxZrtdgh71TQ76cwAr5ANnaWQvV6u0MDoRJ2\nefCqmurt5F/1au6RMfmH+emrdtDap29EZENKPINxAoGAD1UecTxsetUFCjeuj8x3\npLC7oYzZvkK5O4uKU3fHOiFZs6P19a7CsojR8cr5w5qB31KQrIDgACm4HSQKAlEJ\nSQDmkiU/zNSygVQSzBRcbfeNgQTF9n68VbLCyH4aXWvLgpz9dKibeRNSQ8TKYC1P\nPGf4nYQEFK31XyxwGo8HVjc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ebay-spain@macro-gadget-392011.iam.gserviceaccount.com",
+  "client_id": "112596356294806260028",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ebay-spain%40macro-gadget-392011.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
